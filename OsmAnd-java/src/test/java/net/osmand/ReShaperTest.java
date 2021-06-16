@@ -38,7 +38,7 @@ public class ReShaperTest {
 	
 	@Test
 	public void test3() throws ArabicShapingException {
-		Reshaper.test3();
+		//Reshaper.test3();
 	}
 	
 	@Test
